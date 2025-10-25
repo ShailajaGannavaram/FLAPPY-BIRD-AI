@@ -1,0 +1,3 @@
+[server]
+folderWatchBlacklist = ["."]
+runOnSave = false
